@@ -25,3 +25,4 @@ Il devra a minima contenir les fonctionnalités suivantes :
 - Permettre de visualiser des informations descriptives relatives à un client (via un système de filtre).
 - Permettre de comparer les informations descriptives relatives à un client à l’ensemble des clients ou à un groupe de clients similaires.
 ![p7_3](https://user-images.githubusercontent.com/71134226/117358610-a75b6e00-aeb6-11eb-9853-6fd42280da31.gif)
+![p7_5](https://user-images.githubusercontent.com/71134226/117359901-5a789700-aeb8-11eb-82f9-8afc8f67b2a8.gif)
